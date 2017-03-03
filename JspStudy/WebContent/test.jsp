@@ -15,5 +15,9 @@
     out.println("str="+str);//웹상에 출력하는 구문
    %>
    <label>hotfix</label>
+   1
+   2
+   3
+   
 </body>
 </html>
