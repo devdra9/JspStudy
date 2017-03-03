@@ -17,11 +17,3 @@
    <label>hotfix</label>
 </body>
 </html>
-
-
-
-
-
-
-
-
