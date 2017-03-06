@@ -15,5 +15,6 @@
     out.println("str="+str);//웹상에 출력하는 구문
    %>
    <label>master</label>
+   <% String str1 = "master branch";%> 
    </body>
 </html>
