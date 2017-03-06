@@ -14,10 +14,6 @@
     System.out.println("str="+str);//콘솔에 출력->결과를 확인할때
     out.println("str="+str);//웹상에 출력하는 구문
    %>
-   <label>hotfix</label>
-   1
-   2
-   3
-   
-</body>
+   <label>master</label>
+   </body>
 </html>
